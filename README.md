@@ -2,6 +2,7 @@
 
 [软硬件前后端物联网全栈开发b站视频账号](https://space.bilibili.com/250616280)
 
+# History仓库
 - cv研究生日常Lab
   - [面向深度学习的集中管理的多用户docker配置⭐](./cv研究生日常Lab/mydocker)
   - [玩转跳板机推荐配置](./cv研究生日常Lab/玩转跳板机/readme.md)
@@ -36,10 +37,5 @@
   - 最新迭代演进到物联网敏捷全栈开发架构--[软硬件解耦, 前后端分离](https://www.bilibili.com/read/cv14295263) 欢迎有前后端vue+django开发经验同学来有偿合作开发~
 - 合辑展示
 
-  *物联网相关作品集合, 后续只更新bilibili视频*
 
-[个人博客入口 ](https://www.cnblogs.com/sharklet/p/12543620.html)
-
-[旧版github链接（已停止更新） ](https://github.com/just-4-f-u-n/History)
-
-*如果有开发需要或有意思的想法，欢迎联系vx ywz978020607
+# [合作联系页](colla/index.html)
