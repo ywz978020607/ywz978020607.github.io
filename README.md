@@ -14,4 +14,4 @@
 
 
 
-# [合作联系页](https://ywz978020607.github.io/ywz978020607/)
+# [合作联系站点](https://ywz978020607.github.io/ywz978020607/)
