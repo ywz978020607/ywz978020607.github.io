@@ -77,7 +77,7 @@
 
           hook.afterEach(function (html) {
             // const cn = vm.route.file.indexOf('README_CN') != -1
-            const copyright = isEn() ? ' 版权所有' : '. All Rights Reserved'
+            const copyright = !isEn() ? ' 版权所有' : '. All Rights Reserved'
             const currentYear = new Date().getFullYear()
             const footer = `<footer><span>Copyright © 2018-${currentYear} <a href="https://github.com/ywz978020607" target="_blank">ywz978020607</a>${copyright}</footer>`
             return html + footer
@@ -91,6 +91,7 @@
   <script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//fastly.jsdelivr.net/npm/docsify-contributors@latest/dist/index.min.js"></script>
   <script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//fastly.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script src="//fastly.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
