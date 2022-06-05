@@ -97,7 +97,12 @@
   <script src="//fastly.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
   <script>
     console.log("window.location pathname:");
-    console.log(window.location.pathname);
+    console.log(window.location.pathname);  //"/folder/leetcode/"
+    console.log("window.location hash:");
+    console.log(window.location.hash);
+    var identify_for_gitalk = window.location.pathname + window.location.hash.split("/")[1];
+    console.log(identify_for_gitalk);
+
     const gitalk = new Gitalk({
       clientID: "1f40925302c5814873f7",
       clientSecret: "71d342e709c3b2edf3291995171aa419eb45330b",
@@ -105,7 +110,7 @@
       owner: "ywz978020607",
       admin: ["ywz978020607"],
       // number: 3,
-      id: window.location.pathname,
+      id: identify_for_gitalk, //window.location.pathname,
       distractionFreeMode: false,
       // number: 3,
       // distractionFreeMode: true,
