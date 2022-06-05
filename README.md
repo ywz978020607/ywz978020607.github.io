@@ -12,7 +12,7 @@
 | 5   | [MC-2](https://github.com/Archer-Tatsu/MC-2)           | BUAA-MC^2实验室信息化仓库 | ![](https://badgen.net/github/stars/Archer-Tatsu/MC-2) <br>![](https://badgen.net/github/forks/Archer-Tatsu/MC-2)|
 | 6   | [NginxDockerPlus](https://github.com/ywz978020607/docker_nginx_with_manage)           | NginxDocker with django backend management | ![](https://badgen.net/github/stars/ywz978020607/docker_nginx_with_manage) <br>![](https://badgen.net/github/forks/ywz978020607/docker_nginx_with_manage)|
 | 7   | [dockerweb](https://github.com/ywz978020607/dockerweb)           | Docker-常用web开发软件编排仓库 | ![](https://badgen.net/github/stars/ywz978020607/dockerweb) <br>![](https://badgen.net/github/forks/ywz978020607/dockerweb)|
-| 8   | [leetcode](https://ywz978020607.github.io/leetcode)           | Leetcode 个人刷题记录补充 | ![](https://badgen.net/github/stars/ywz978020607/leetcode) <br>![](https://badgen.net/github/forks/ywz978020607/leetcode)|
+| 8   | [leetcode](https://ywz978020607.github.io/leetcode)           | ⭐Leetcode 个人刷题记录补充-支持评论笔记⭐ | ![](https://badgen.net/github/stars/ywz978020607/leetcode) <br>![](https://badgen.net/github/forks/ywz978020607/leetcode)|
 
 
 
