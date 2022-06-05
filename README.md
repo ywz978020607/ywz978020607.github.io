@@ -9,8 +9,10 @@
 | 2   | [HESIC](https://github.com/ywz978020607/HESIC)           | 基于深度学习的双目图像压缩算法 | ![](https://badgen.net/github/stars/ywz978020607/HESIC) <br>![](https://badgen.net/github/forks/ywz978020607/HESIC)|
 | 3   | [MASIC](https://github.com/ywz978020607/MASIC)           | 改进版:基于深度学习的双目图像压缩算法 | ![](https://badgen.net/github/stars/ywz978020607/MASIC) <br>![](https://badgen.net/github/forks/ywz978020607/MASIC)|
 | 4   | [Multi-planes-path-planning](https://github.com/ywz978020607/Multi-planes-path-planning)           | 多机协同路径导航演示项目 | ![](https://badgen.net/github/stars/ywz978020607/Multi-planes-path-planning) <br>![](https://badgen.net/github/forks/ywz978020607/Multi-planes-path-planning)|
-| 5   | [dockerweb](https://github.com/ywz978020607/dockerweb)           | Docker-常用web开发软件编排仓库 | ![](https://badgen.net/github/stars/ywz978020607/dockerweb) <br>![](https://badgen.net/github/forks/ywz978020607/dockerweb)|
-| 6   | [MC-2](https://github.com/Archer-Tatsu/MC-2)           | BUAA-MC^2实验室信息化仓库 | ![](https://badgen.net/github/stars/Archer-Tatsu/MC-2) <br>![](https://badgen.net/github/forks/Archer-Tatsu/MC-2)|
+| 5   | [MC-2](https://github.com/Archer-Tatsu/MC-2)           | BUAA-MC^2实验室信息化仓库 | ![](https://badgen.net/github/stars/Archer-Tatsu/MC-2) <br>![](https://badgen.net/github/forks/Archer-Tatsu/MC-2)|
+| 6   | [NginxDockerPlus](https://github.com/ywz978020607/docker_nginx_with_manage)           | NginxDocker with django backend management | ![](https://badgen.net/github/stars/ywz978020607/docker_nginx_with_manage) <br>![](https://badgen.net/github/forks/ywz978020607/docker_nginx_with_manage)|
+| 7   | [dockerweb](https://github.com/ywz978020607/dockerweb)           | Docker-常用web开发软件编排仓库 | ![](https://badgen.net/github/stars/ywz978020607/dockerweb) <br>![](https://badgen.net/github/forks/ywz978020607/dockerweb)|
+| 8   | [leetcode](https://ywz978020607.github.io/leetcode)           | Leetcode 个人刷题记录补充 | ![](https://badgen.net/github/stars/ywz978020607/leetcode) <br>![](https://badgen.net/github/forks/ywz978020607/leetcode)|
 
 
 
