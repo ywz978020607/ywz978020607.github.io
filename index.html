@@ -100,7 +100,7 @@
     console.log(window.location.pathname);  //"/folder/leetcode/"
     console.log("window.location hash:");
     console.log(window.location.hash);
-    var identify_for_gitalk = window.location.pathname + window.location.hash.split("/")[1];
+    var identify_for_gitalk = window.location.pathname + (window.location.hash.split("/")[1]?window.location.hash.split("/")[1]:"");
     console.log(identify_for_gitalk);
 
     const gitalk = new Gitalk({
@@ -110,8 +110,8 @@
       owner: "ywz978020607",
       admin: ["ywz978020607"],
       // number: 3,
-      id: window.location.pathname + window.location.hash.split("/")[1], //identify_for_gitalk, //window.location.pathname,
-      title: window.location.pathname + window.location.hash.split("/")[1],//identify_for_gitalk, //title不重要 主要是id
+      id: window.location.pathname + (window.location.hash.split("/")[1]?window.location.hash.split("/")[1]:""),
+      title: window.location.pathname + (window.location.hash.split("/")[1]?window.location.hash.split("/")[1]:""), //title不重要 主要是id
       distractionFreeMode: false,
       // number: 3,
       // distractionFreeMode: true,
